@@ -12,9 +12,24 @@ each employee department of the company.
 
 ### Tools
 - Excel - Data cleaning
+  - [Download here](https://microsoft.com)
 - SQL Server - Data analysis
 - PowerBI - Creating reports
-- 
+
+### Data cleaning preparation
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formating.
+
+### Exploratory Data analysis (EDA)
+EDA involved exploring the HR data to answer the key questions, such as: 
+
+- what is the overall Attrition trend? 
+- Which department has Peak Attrition?
+- Which are the peak Attrition periods?
+
+
 ![dashboard_snapo](https://github.com/Abdula551/Powerbi_Dashboard/blob/main/image001.png)
 
-##
+
