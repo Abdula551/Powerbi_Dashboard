@@ -10,6 +10,11 @@ we seek to identify trends, make data driven recommendations, and gain a deeper 
 HR Analytics data: The primary dataset used for this analysis is "HR_Analytics.csv" file, containing detailed information of 
 each employee department of the company.
 
+### Tools
+- Excel - Data cleaning
+- SQL Server - Data analysis
+- PowerBI - Creating reports
+- 
 ![dashboard_snapo](https://github.com/Abdula551/Powerbi_Dashboard/blob/main/image001.png)
 
 ##
